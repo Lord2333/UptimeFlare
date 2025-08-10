@@ -10,7 +10,7 @@ const pageConfig: PageConfig = {
     { link: 'mailto:mrdeng@j8.mraket', label: 'Email Me', highlight: true },
   ],
   group: {
-    '🌐 My Websites': ['J8_Blog', 'bar_monitor', 'more monitor ids...'],
+    '🌐 My Websites': ['J8_Blog', 'bar_monitor'],
   },
 }
 
